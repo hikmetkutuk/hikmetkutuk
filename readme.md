@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hikmetkutuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hikmetkutuk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="hikmetkutuk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="hikmetkutuk | LinkedIn" width="22px" src="https://i.ibb.co/WFTHP6S/linkedin-1.png" />][linkedin]
+[<img align="left" alt="hikmetkutuk | Instagram" width="22px" src="https://i.ibb.co/kSWbMCp/instagram.png" />][instagram]
+[<img align="left" alt="hikmetkutuk | Instagram" width="22px" src="https://i.ibb.co/vvcXpKz/spotify.png" />][spotify]
 
 <br />
 
