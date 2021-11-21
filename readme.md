@@ -3,7 +3,7 @@
 ## I'm Developer at PTT Teknoloji
 
 - 🌱 I’m currently learning everything
-- ⚡ Fun fact: I love toreading book
+- ⚡ Fun fact: I love reading book
 
 ### Connect with me:
 
