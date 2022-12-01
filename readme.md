@@ -9,7 +9,7 @@
 
 [<img align="left" alt="hikmetkutuk | LinkedIn" width="22px" src="https://i.ibb.co/3f1xTSM/linkedin-2.png" />][linkedin]
 [<img align="left" alt="hikmetkutuk | Instagram" width="22px" src="https://i.ibb.co/TmhDfPg/instagram.png" />][instagram]
-[<img align="left" alt="hikmetkutuk | Instagram" width="22px" src="https://i.ibb.co/fH4Npky/spotify.png" />][spotify]
+[<img align="left" alt="hikmetkutuk | Spotify" width="22px" src="https://i.ibb.co/fH4Npky/spotify.png" />][spotify]
 
 <br />
 
