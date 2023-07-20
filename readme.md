@@ -5,16 +5,6 @@
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love reading book
 
-### Connect with me:
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin" />
-  </a>
-</p>
-
-<br />
-
 ### Languages and Tools:
 
 <p>
@@ -23,18 +13,16 @@
   </a>
 </p>
 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hikmetkutuk)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hikmetkutuk@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hikmetkutuk)
+[![spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/42xezvvXbFMZHrXPpw2YYH?si=c69d2ee5d7dc4870)
+
 <br />
 <br />
 
 [instagram]: https://instagram.com/hikmetkutuk
 [linkedin]: https://linkedin.com/in/hikmetkutuk
 [spotify]: https://open.spotify.com/playlist/42xezvvXbFMZHrXPpw2YYH?si=c69d2ee5d7dc4870
-[vscode]: https://code.visualstudio.com
-[javascript]: https://www.javascript.com
-[react]: https://reactjs.org
-[node]: https://nodejs.org/en/
-[postgre]: https://www.postgresql.org
-[mongo]: https://www.mongodb.com
-[git]: https://git-scm.com
-[dotnet]: https://dotnet.microsoft.com
-[java]: https://www.java.com/en/
