@@ -26,3 +26,9 @@
 [instagram]: https://instagram.com/hikmetkutuk
 [linkedin]: https://linkedin.com/in/hikmetkutuk
 [spotify]: https://open.spotify.com/playlist/42xezvvXbFMZHrXPpw2YYH?si=c69d2ee5d7dc4870
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hikmetkutuk/hikmetkutuk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hikmetkutuk/hikmetkutuk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hikmetkutuk/hikmetkutuk/output/github-contribution-grid-snake.svg">
+</picture>
