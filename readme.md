@@ -2,7 +2,7 @@
 
 ## I'm Full-stack Developer
 - 🚀 "A great way to build software is to start out by solving your own problems."
-- 🌱 I’m currently learning php laravel programming
+- 🌱 I’m currently learning java spring boot programming
 - ⚡ Fun fact: I love reading book
 
 ### Languages and Tools:
