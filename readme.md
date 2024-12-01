@@ -2,7 +2,6 @@
 
 ## I'm Full-stack Developer
 - 🚀 "A great way to build software is to start out by solving your own problems."
-- 🌱 I’m currently learning quarkus 
 - ⚡ Fun fact: I love reading book
 
 ### Languages and Tools:
