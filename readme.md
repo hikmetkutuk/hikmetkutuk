@@ -1,6 +1,6 @@
 ### Hi there, I'm Hikmet 👋
 
-## I'm Full-stack Developer
+## I'm Senior Software Developer
 - 🚀 "A great way to build software is to start out by solving your own problems."
 - ⚡ Fun fact: I love reading book
 
