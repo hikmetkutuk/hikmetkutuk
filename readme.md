@@ -12,6 +12,12 @@
   </a>
 </p>
 
+## 🏅 Certifications & Credentials
+
+<a href="https://certificates.confluent.io/f4b0f7ba-82e1-45b2-9577-5b8744c5efad#acc.xURqkKDd">
+  <img src="badges/confluent-kafka.png" width="100" alt="Confluent Apache Kafka Fundamentals Accreditation" />
+</a>
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hikmetkutuk)
