@@ -20,10 +20,10 @@
 
 ## 🔗 Links
 
+[![website](https://img.shields.io/badge/Website-544C4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hikmetkutuk.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hikmetkutuk)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hikmetkutuk@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hikmetkutuk)
-[![spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/42xezvvXbFMZHrXPpw2YYH?si=c69d2ee5d7dc4870)
 
 <br />
 <br />
