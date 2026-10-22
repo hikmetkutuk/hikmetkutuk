@@ -14,8 +14,11 @@
 
 ## 🏅 Certifications & Credentials
 
-<a href="https://certificates.confluent.io/f4b0f7ba-82e1-45b2-9577-5b8744c5efad#acc.xURqkKDd">
-  <img src="badges/confluent-kafka.png" width="100" alt="Confluent Apache Kafka Fundamentals Accreditation" />
+<a href="https://certificates.confluent.io/f4b0f7ba-82e1-45b2-9577-5b8744c5efad">
+  <img src="badges/confluent-kafka.png" height="110" align="middle" alt="Confluent Apache Kafka Fundamentals Accreditation" />
+</a>
+<a href="https://www.credly.com/badges/fcd42679-1767-4eed-a8b6-4aec556dda2d">
+  <img src="badges/mongodb.png" height="80" align="middle" alt="MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge" />
 </a>
 
 ## 🔗 Links
