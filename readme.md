@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,idea,js,ts,nodejs,react,redux,spring,maven,gradle,python,mongo,postgres,redis,rabbitmq,dotnet,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,idea,js,ts,nodejs,react,redux,spring,maven,gradle,python,mongo,postgres,redis,kafka,rabbitmq,dotnet,aws" />
   </a>
 </p>
 
