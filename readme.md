@@ -20,6 +20,9 @@
 <a href="https://www.credly.com/badges/fcd42679-1767-4eed-a8b6-4aec556dda2d">
   <img src="badges/mongodb.png" height="80" align="middle" alt="MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge" />
 </a>
+<a href="https://www.credly.com/badges/d70fcc7a-785b-4077-b810-4a3f1053448b">
+  <img src="badges/aws-educate-getting-started-with-serverless-trainin.png" height="100" align="middle" alt="AWS Educate Getting Started with Serverless - Training Badge" />
+</a>
 
 ## 🔗 Links
 
