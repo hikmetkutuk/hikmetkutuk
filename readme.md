@@ -1,15 +1,36 @@
 ### Hi there, I'm Hikmet 👋
 
-## I'm Senior Software Developer
-- 🚀 "A great way to build software is to start out by solving your own problems."
-- ⚡ Fun fact: I love reading book
+I’m a software engineer focusing on backend systems, software architecture, and scalable applications. Here you’ll find my projects and experiments around distributed systems, API design, database optimization, and real-world problems experienced in production environments.
 
-### Languages and Tools:
+I enjoy designing scalable systems, making architectural decisions, and turning complex problems into clean, maintainable solutions.
+
+- 🔭 **Currently focusing on:** distributed systems, event-driven architecture and cloud-native development on AWS
+- 📚 **Fun fact:** I love reading books
+
+### 🛠 Tech Stack
+
+**Backend**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,idea,js,ts,nodejs,react,redux,spring,maven,gradle,python,mongo,postgres,redis,kafka,rabbitmq,dotnet,aws" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,nodejs,python,dotnet" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux" />
+</p>
+
+**Data & Messaging**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,kafka,rabbitmq" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
 </p>
 
 ## 🏅 Certifications & Credentials
@@ -27,19 +48,13 @@
   <img src="badges/agile-explorer.png" height="80" align="middle" alt="IBM Agile Explorer" />
 </a>
 
-## 🔗 Links
+### 🔗 Connect
 
 [![website](https://img.shields.io/badge/Website-544C4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hikmetkutuk.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hikmetkutuk)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hikmetkutuk@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hikmetkutuk)
 
 <br />
-<br />
-
-[instagram]: https://instagram.com/hikmetkutuk
-[linkedin]: https://linkedin.com/in/hikmetkutuk
-[spotify]: https://open.spotify.com/playlist/42xezvvXbFMZHrXPpw2YYH?si=c69d2ee5d7dc4870
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hikmetkutuk/hikmetkutuk/output/github-contribution-grid-snake-dark.svg">
