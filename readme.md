@@ -23,6 +23,9 @@
 <a href="https://www.credly.com/badges/d70fcc7a-785b-4077-b810-4a3f1053448b">
   <img src="badges/aws-educate-getting-started-with-serverless-trainin.png" height="100" align="middle" alt="AWS Educate Getting Started with Serverless - Training Badge" />
 </a>
+<a href="https://www.credly.com/badges/170ffbc3-5b87-49de-b47d-05e7e2a48960">
+  <img src="badges/agile-explorer.png" height="80" align="middle" alt="IBM Agile Explorer" />
+</a>
 
 ## 🔗 Links
 
