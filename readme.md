@@ -35,18 +35,35 @@ I enjoy designing scalable systems, making architectural decisions, and turning 
 
 ## 🏅 Certifications & Credentials
 
-<a href="https://certificates.confluent.io/f4b0f7ba-82e1-45b2-9577-5b8744c5efad">
-  <img src="badges/confluent-kafka.png" height="110" align="middle" alt="Confluent Apache Kafka Fundamentals Accreditation" />
-</a>
-<a href="https://www.credly.com/badges/fcd42679-1767-4eed-a8b6-4aec556dda2d">
-  <img src="badges/mongodb.png" height="80" align="middle" alt="MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge" />
-</a>
-<a href="https://www.credly.com/badges/d70fcc7a-785b-4077-b810-4a3f1053448b">
-  <img src="badges/aws-educate-getting-started-with-serverless-trainin.png" height="100" align="middle" alt="AWS Educate Getting Started with Serverless - Training Badge" />
-</a>
-<a href="https://www.credly.com/badges/170ffbc3-5b87-49de-b47d-05e7e2a48960">
-  <img src="badges/agile-explorer.png" height="80" align="middle" alt="IBM Agile Explorer" />
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://certificates.confluent.io/f4b0f7ba-82e1-45b2-9577-5b8744c5efad">
+        <img src="badges/confluent-kafka.png" width="100" alt="Confluent Apache Kafka" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/fcd42679-1767-4eed-a8b6-4aec556dda2d">
+        <img src="badges/mongodb.png" width="85" alt="MongoDB" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/d70fcc7a-785b-4077-b810-4a3f1053448b">
+        <img src="badges/aws-educate-getting-started-with-serverless-trainin.png" width="100" alt="AWS Serverless" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/170ffbc3-5b87-49de-b47d-05e7e2a48960">
+        <img src="badges/agile-explorer.png" width="85" alt="IBM Agile Explorer" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/c2339332-21a1-4e75-abbf-e6f8e6e77f2e">
+        <img src="badges/kong-gateway.png" width="85" alt="Kong Event Gateway" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Connect
 
