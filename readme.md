@@ -18,7 +18,7 @@ I enjoy designing scalable systems, making architectural decisions, and turning 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js" />
 </p>
 
 **Data & Messaging**
