@@ -58,8 +58,8 @@ I enjoy designing scalable systems, making architectural decisions, and turning 
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.credly.com/badges/c2339332-21a1-4e75-abbf-e6f8e6e77f2e">
-        <img src="badges/kong-gateway.png" width="85" alt="Kong Event Gateway" />
+      <a href="https://www.credly.com/badges/5a7c94d4-e87c-4e52-a5e8-1f52faa524c8">
+        <img src="badges/kubernetes.png" width="85" alt="Kubernetes" />
       </a>
     </td>
   </tr>
